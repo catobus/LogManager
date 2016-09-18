@@ -30,7 +30,7 @@ log.warn("this comes from the browser based app");
 LogManager.setThreshold("OFF");
 ```
 
-## How to use it in node.js
+## How to use in node.js
 ```javascript
 // setup UDP remote logging with logFaces UDP receiver
 var LogManager = require('./LogManager');
