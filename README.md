@@ -49,4 +49,5 @@ log.info("this comes from node.js server app");
 LogManager.setContext("user", "foo");
 LogManager.setContext("job", "bar");
 log.info("this will arive to server with context variables");
+
 ```
