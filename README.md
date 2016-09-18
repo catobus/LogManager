@@ -5,7 +5,7 @@ remote appenders for client and server side JS applications
 ## Who is it for
 1. those who need proper logging mechanism integrated into js apps
 2. those who use (want/can use) [log4js-node](https://github.com/nomiddlename/log4js-node) as logging framework
-3. those who use (want/can use) [logFaces](http://www.logfaces.com) as a centralized remote log management system
+3. those who use (want/can use) [logFaces](http://www.logfaces.com) as a centralized remote log management
 
 ## What does it do
 1. single code base, it will run in both node.js and most modern browsers
